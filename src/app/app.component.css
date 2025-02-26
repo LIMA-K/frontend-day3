@@ -1,0 +1,15 @@
+h1{
+color:violet ;
+}
+p{
+    color: brown;
+}
+button{
+    background-color: brown;
+    padding: 20PX;
+    border-radius: 10px;
+
+}
+button:hover{
+    background-color: rgb(60, 241, 43);
+}
